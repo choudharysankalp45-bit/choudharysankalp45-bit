@@ -57,3 +57,31 @@ More projects coming soon!
 ---
 
 ⭐ *Always learning, building and improving.*
+
+
+## 🚀 Featured Projects
+
+### 1. Python Online Quiz System
+A command-line quiz application built using Python.
+
+- 10 General Knowledge questions
+- Multiple-choice options
+- Automatic score calculation
+- Performance evaluation
+
+**Tech Stack:** Python
+
+[View Project](https://github.com/choudharysankalp45-bit/python-online-quiz-system)
+
+---
+
+## 🎯 Current Goals
+
+- Strengthening C++ programming fundamentals
+- Learning Data Structures and Algorithms
+- Exploring Artificial Intelligence and Machine Learning
+- Building practical software development projects
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/choudharysankalp45-bit
